@@ -38,7 +38,7 @@
     <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Mon-Fri 6am-4pm"
+        android:text="Mon-Fri 6am-5pm"
         android:textAlignment="center"
         android:textSize="20sp" />
 
